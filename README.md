@@ -8,4 +8,5 @@
 # latihan 4
 ![Alt Text](https://github.com/divamaretta/jobsheet-12/blob/master/Screenshot%20(218).png)
 # latihan 5
-![Alt Text]((https://github.com/divamaretta/jobsheet-12/blob/master/Screenshot%20(220).png)
+![Alt Text](https://github.com/divamaretta/jobsheet-12/blob/master/Screenshot%20(220).png)
+
