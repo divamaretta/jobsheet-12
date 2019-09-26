@@ -5,5 +5,7 @@
 ![Alt Text](https://github.com/divamaretta/jobsheet-12/blob/master/Screenshot%20(215).png)
 # latihan 2
 ![Alt Text](https://github.com/divamaretta/jobsheet-12/blob/master/Screenshot%20(216).png)
-# latihan 3
+# latihan 4
 ![Alt Text](https://github.com/divamaretta/jobsheet-12/blob/master/Screenshot%20(218).png)
+# latihan 5
+![Alt Text]((https://github.com/divamaretta/jobsheet-12/blob/master/Screenshot%20(220).png)
